@@ -1,0 +1,5 @@
+---
+interface:
+  display_name: "NameGhost"
+  short_description: "Traque les traces d'un ancien branding après un rebranding."
+  default_prompt: "Analyse ce projet avec NameGhost et trouve toutes les traces résiduelles de l'ancien nom, domaine ou branding. Classe les résultats par gravité et ne modifie rien sans demande explicite."
